@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 void main() {
+    printf("[-----[최 현 철]    [2022078014]-----]");
     int list[5];
     int *plist[5];
 

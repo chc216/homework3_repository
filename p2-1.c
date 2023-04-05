@@ -11,6 +11,7 @@ int i;  //int형 전역변수를 선언한다.
 
 int main(void)
 {
+    printf("[-----[최 현 철]    [2022078014]-----]");
     for(i = 0; i < MAX_SIZE; i++)   //배열 Input에 0부터 99까지 각 요소에 대입한다.
         input[i] = i;
 

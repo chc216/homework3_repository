@@ -3,6 +3,7 @@
 
 void main()
 {
+    printf("[-----[최 현 철]    [2022078014]-----]");
     int **x;    //int형 이중포인터 변수를 선언한다.
 
     printf("sizeof(x) = %lu\n", sizeof(x));     //이중포인터 변수의 크기를 출력한다.

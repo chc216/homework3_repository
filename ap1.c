@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 void main() {
+    printf("[-----[최 현 철]    [2022078014]-----]");
     int list[5];    //int형 배열을 선언합니다.
     int *plist[5] = {NULL,};    //포인터 배열을 선언합니다. 모든 요소의 값을 NULL값으로 초기화 합니다.
 

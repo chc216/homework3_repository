@@ -13,6 +13,7 @@ typedef struct {    //struct키워드와 typedef를 이용하여 구조체 정�
 } student2;
 
 int main() {
+    printf("[-----[최 현 철]    [2022078014]-----]");
     struct student1 st1 = {'A', 100, 'A'};  //구조체 변수 st1선언과 동시에 구조체 멤버에 값을 대입한다.
     printf("st1.lastName = %c\n", st1.lastName);
     printf("st1.studentId = %d\n", st1.studentId);

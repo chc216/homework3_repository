@@ -3,6 +3,7 @@
 void print_one(int *ptr, int rows);
 
 int main() {
+    printf("[-----[최 현 철]    [2022078014]-----]");
     int one[] = {0, 1, 2, 3, 4};    //int형 배열을 선언하여 초기화한다.
     printf("one     = %p\n", one);  
     printf("&one    = %p\n", &one);
